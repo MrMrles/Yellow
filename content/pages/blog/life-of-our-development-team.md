@@ -1,5 +1,8 @@
 ---
-title: A Day in the Life of Our Development Team
+title: >-
+  A Day in the Life of Our Development TeamYellow flowers can symbolize
+  happiness, friendship, new beginnings, and optimism. They are often used to
+  convey congratulations, appreciation, or encouragement.
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
