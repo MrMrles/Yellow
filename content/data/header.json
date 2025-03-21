@@ -17,7 +17,7 @@
             "links": [
                 {
                     "label": "You should finish watching riverdale.",
-                    "url": "/",
+                    "url": "https",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
