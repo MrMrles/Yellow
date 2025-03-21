@@ -1,7 +1,7 @@
 ---
 title: Surround Yourself With the Right People
 slug: surround-yourself-with-right-people
-date: '2024-01-25'
+date: '2008-01-25'
 excerpt: ''
 featuredImage:
   altText: Thumbnail
