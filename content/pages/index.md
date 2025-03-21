@@ -20,16 +20,7 @@ sections:
       put into any of my works, MUAH TEAMO MAMI Y TE MERECES TODO LO MEJOR Y LO
       BUENO, YOU DESERVE TO FEEL BETTER AND DESERVE ALL THE YELLOW FLOWERS OF
       THIS WORLD MAMI
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
