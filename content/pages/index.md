@@ -21,15 +21,6 @@ sections:
       BUENO, YOU DESERVE TO FEEL BETTER AND DESERVE ALL THE YELLOW FLOWERS OF
       THIS WORLD MAMI
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
