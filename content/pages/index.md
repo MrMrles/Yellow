@@ -9,9 +9,17 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      HOLA MAMIIII now I know what youll probably say, youll probs be like "ya
+      no quiero nada" or youll same something among those lines because I took a
+      little too long doing this and because I thought it was on april 21st, but
+      I'm still doing it because i want to and because you deserve it mami <3 
+      PERO NADA MAMI HAPPY NATIONAL YELLOW FLOWER DAY MAMI, I know you're sick
+      and everything and I couldn't really give you the flowers you deserve but
+      I'll be giving you this instead, I really hope you enjoy it and hope you
+      like it since this is the most i've done in a while and the most work i've
+      put into any of my works, MUAH TEAMO MAMI Y TE MERECES TODO LO MEJOR Y LO
+      BUENO, YOU DESERVE TO FEEL BETTER AND DESERVE ALL THE YELLOW FLOWERS OF
+      THIS WORLD MAMI
     actions:
       - label: Get started
         altText: ''
