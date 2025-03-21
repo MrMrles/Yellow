@@ -53,7 +53,7 @@ sections:
     items: []
     actions: []
     badge:
-      label: This is a badge
+      label: 'HERES MORE FLOWERS :D'
       color: text-primary
       styles:
         self:
