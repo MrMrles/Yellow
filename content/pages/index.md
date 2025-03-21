@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: HAPPY YELLOW FLOWER DAY MAMII
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: ''
     text: >
