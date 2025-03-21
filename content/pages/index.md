@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: HAPPY YELLOW FLOWER DAY MAMII
+      text: HAPPY YELLOW FLOWER DAY MAMIIA
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
