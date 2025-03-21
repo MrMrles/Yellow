@@ -75,7 +75,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: CARNATIONSSS
+      text: FLOWERSSS
       color: text-dark
       styles:
         self:
