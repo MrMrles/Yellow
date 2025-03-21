@@ -1,5 +1,5 @@
 ---
-title: LOVE YOUU
+title: Unfairly Rigged I love HER
 slug: /
 sections:
   - type: GenericSection
@@ -102,7 +102,7 @@ sections:
           - pr-16
         justifyContent: center
 seo:
-  metaTitle: Flowers!
+  metaTitle: Flowers FOR YOUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU MAMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!
   metaDescription: Yellow Flowers For My Beautiful Girlfriend
   socialImage: 
   type: Seo
