@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/Silk Carnation Yellow C001j-550x550.jpg
+  url: /images/BHG-Dahlia-8547232-a0356c7a7bdf469baf67fce60c33ef87.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
