@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by [Morales](https://www.netlify.com/)\n\n",
     "colors": "bg-dark-fg-light",
