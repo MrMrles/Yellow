@@ -1,5 +1,5 @@
 ---
-title: Home
+title: LOVE YOUU
 slug: /
 sections:
   - type: GenericSection
@@ -102,9 +102,9 @@ sections:
           - pr-16
         justifyContent: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Flowers!
+  metaDescription: Yellow Flowers For My Beautiful Girlfriend
+  socialImage: 
   type: Seo
 type: PageLayout
 ---
