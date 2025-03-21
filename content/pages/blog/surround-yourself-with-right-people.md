@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: ' Yellow flowers are often associated with celebrations and milestones. '
 slug: surround-yourself-with-right-people
 date: '2008-01-25'
 excerpt: ''
