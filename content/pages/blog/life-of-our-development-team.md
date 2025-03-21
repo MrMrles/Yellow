@@ -1,5 +1,8 @@
 ---
-title: ''
+title: >-
+  Yellow flowers can symbolize happiness, friendship, new beginnings, and
+  optimism. They are often used to convey congratulations, appreciation, or
+  encouragement. 
 slug: life-of-our-development-team
 date: '2025-03-21'
 excerpt: >-
