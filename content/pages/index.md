@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: >
       HOLA MAMIIII now I know what youll probably say, youll probs be like "ya
-      no quiero nada" or youll same something among those lines because I took a
+      no quiero nada" or youll say something among those lines because I took a
       little too long doing this and because I thought it was on april 21st, but
       I'm still doing it because i want to and because you deserve it mami <3 
       PERO NADA MAMI HAPPY NATIONAL YELLOW FLOWER DAY MAMI, I know you're sick
